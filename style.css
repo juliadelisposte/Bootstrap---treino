@@ -12,7 +12,6 @@ hr {
 }
 
 .cards-title {
-  display: block;
 	left: 50%;
 	top: 50%
   width: 1161px;
@@ -20,13 +19,10 @@ hr {
   font-family: 'Cambria';
   font-style: normal;
   font-weight: 400;
-  font-size: 64px;
+  font-size: 44px;
   line-height: 50px;
-  /* or 78% */
-
   text-align: center;
   letter-spacing: 4.4px;
-
   color: #040F34;
 }
 
@@ -78,86 +74,8 @@ hr {
   border-radius: 50%;
 }
 
-/* @media(max-width: 800px) {
-  .header {
-    background-color: #1A417B;
-    height: 412px;
-    width: 100%;
-  }
-
-  .header-text {
-    position: absolute;
-    width: 594px;
-    height: 285px;
-    margin-left: 890px;
-    top: 295px;
-    font-family: 'Cambria';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 64px;
-    line-height: 100px;
-    text-align: center;
-    letter-spacing: 4.4px;
-    color: rgba(255, 255, 255, 0.86);
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    }
-
-  .header-image {
-    max-width: 380px;
-    margin-top: 5px;
-  }
-  .blue-ellipse {
-    position: absolute;
-    width: 220px;
-    height: 220px;
-    margin-left: 15px;
-    margin-top: 190px;
-    background-color: #040F34;
-    border-radius: 50%;
-  }
-  .pink-ellipse {
-    position: absolute;
-    width: 220px;
-    height: 220px;
-    margin-left: -75px;
-    margin-top: 180px;
-    border-radius: 50%;
-    background: #ED0059;
-  }
-} */
-
-/* @media (max-width: 1275px) {
-  .header {
-    background-color: #1A417B;
-    height: 412px;
-    width: 100%;
-  }
-  .header-image {
-    max-width: 380px;
-    margin-top: 30px;
-  }
-  .blue-ellipse {
-    position: absolute;
-    width: 220px;
-    height: 220px;
-    margin-left: 15px;
-    margin-top: 190px;
-    background-color: #040F34;
-    border-radius: 50%;
-  }
-  .pink-ellipse {
-    position: absolute;
-    width: 220px;
-    height: 220px;
-    margin-left: -75px;
-    margin-top: 180px;
-    border-radius: 50%;
-    background: #ED0059;
-  }
-} */
 @media (max-width: 414px) {
   .cards-title {
-    display: block;
     left: 50%;
     top: 50%
     width: 1161px;
@@ -165,13 +83,9 @@ hr {
     font-family: 'Cambria';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 50px;
-    /* or 78% */
-  
+    font-size: 17px;
     text-align: center;
     letter-spacing: 4.4px;
-  
     color: #040F34;
   }
 
@@ -214,48 +128,3 @@ hr {
       height: 412px;
     }
 }
-/* @media (max-width: 810px) {
-  .blue-ellipse {
-    position: absolute;
-    width: 240px;
-    height: 240px;
-    margin-left: 15px;
-    margin-top: 170px;
-    background-color: #040F34;
-    border-radius: 50%;
-  }
-
-  .header-text {
-    position: absolute;
-    margin-left: 200px;
-    top: 10px;
-    font-size: 35px;
-    line-height: 40px;
-    text-align: center;
-    letter-spacing: 4.4px;
-    color: rgba(255, 255, 255, 0.86);
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    }
-
-  .pink-ellipse {
-    position: absolute;
-    width: 250px;
-    height: 250px;
-    margin-left: -25px;
-    margin-top: 160px;
-    border-radius: 50%;
-    background: #ED0059;
-  }
-
-  .header-image {
-    max-width: 380px;
-    margin-top: 25px;
-  }
-  
-  .header {
-    background-color: #1A417B;
-    height: 212px;
-    width: 100%;
-    height: 412px;
-  }
-} */
